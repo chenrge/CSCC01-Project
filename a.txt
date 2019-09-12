@@ -1,2 +1,6 @@
 hi
+<<<<<<< HEAD
 Modification 2
+=======
+Modification 1
+>>>>>>> feature1
